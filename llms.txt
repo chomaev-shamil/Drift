@@ -1,0 +1,14 @@
+# Drift
+
+> A small, testable SwiftUI coordinator for iOS 16+. Typed routes, modal slots, async results, deeplinks, Swift 6 strict concurrency. No dependencies.
+
+## Documentation
+
+- [README](https://github.com/chomaev-shamil/Drift/blob/main/README.md): install, quick start, full integration walkthrough.
+- [AGENTS.md](https://github.com/chomaev-shamil/Drift/blob/main/AGENTS.md): condensed API surface, invariants, and patterns for AI assistants.
+- [DocC](https://chomaev-shamil.github.io/Drift/): symbol reference and articles (Getting Started, Tabs, Deeplinks, Auth, Testing).
+- [CHANGELOG](https://github.com/chomaev-shamil/Drift/blob/main/CHANGELOG.md): release notes.
+
+## Optional
+
+- [Source](https://github.com/chomaev-shamil/Drift/tree/main/Sources/Drift): reading the source is fast — the whole library is ~250 lines.
